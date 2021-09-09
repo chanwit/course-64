@@ -6,3 +6,7 @@
   * Course Outline: https://www.dropbox.com/s/u45nkjwnk30rkuw/SA_64_523331.pdf?dl=0
   * ตารางส่งงาน: https://www.dropbox.com/s/7d5o8k5dr3lc9ht/SA64_work_submission.pdf?dl=0
   * ร่าง Report Checklist: https://www.dropbox.com/s/ghtvl6xscbfkxba/draft_report_checklist_64.pdf?dl=0
+
+### Lectures
+  * ตัวอย่าง Requirements และ User Story: https://www.dropbox.com/s/2s9ek849wd7jh9j/%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%20Requirements%20%E0%B9%81%E0%B8%A5%E0%B8%B0%20User%20Story.pdf?dl=0
+  * ตัวอย่างการวิเคราะห์ใน Lecture 4: https://www.dropbox.com/s/nyw1jcdhaa9fku0/LECTURE_4.pdf?dl=0
