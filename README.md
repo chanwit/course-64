@@ -13,4 +13,4 @@
 
 ### Lab
   * Tutorial สำหรับสัปดาห์ที่ 2 [Link](https://youneedawiki.com/app/page/17FTZ_CLOHYCc086OiVEMateNcUWzVY8aJs1YWeGRWPY?fbclid=IwAR1wL9yTbWiOrLzQ4uaSJbBYL2Nnfm7cbinFl_Dpz2W-gA-1X1MOSDrnE2s)
-  * Lab 4 - เอกสารตัวอย่าง Business Use Case, System Use Case, UI, System Activity Diagramm [PDF](https://www.dropbox.com/s/a2f2r0j79i634od/SA_64_lab4.pdf?dl=0)
+  * Lab 4 - เอกสารตัวอย่าง Business Use Case, System Use Case, UI, System Activity Diagram [PDF](https://www.dropbox.com/s/a2f2r0j79i634od/SA_64_lab4.pdf?dl=0)
