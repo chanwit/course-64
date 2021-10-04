@@ -10,6 +10,7 @@
 ### Lectures
   * ตัวอย่าง Requirements และ User Story: [PDF](https://www.dropbox.com/s/2s9ek849wd7jh9j/%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%20Requirements%20%E0%B9%81%E0%B8%A5%E0%B8%B0%20User%20Story.pdf?dl=0)
   * ตัวอย่างการวิเคราะห์ใน Lecture 4: [PDF](https://www.dropbox.com/s/nyw1jcdhaa9fku0/LECTURE_4.pdf?dl=0)
+  * ตัวอย่างการวิเคราะห์ใน Lecture 8: [PDF](https://www.dropbox.com/s/phxsr76a9z3tg2j/Lecture%208%20-%20Communication%20Diagram.pdf?dl=0)
 
 ### Lab
   * Tutorial สำหรับสัปดาห์ที่ 2 [Link](https://youneedawiki.com/app/page/17FTZ_CLOHYCc086OiVEMateNcUWzVY8aJs1YWeGRWPY?fbclid=IwAR1wL9yTbWiOrLzQ4uaSJbBYL2Nnfm7cbinFl_Dpz2W-gA-1X1MOSDrnE2s)
