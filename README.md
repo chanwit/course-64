@@ -5,6 +5,8 @@
 
   * Course Outline: **Update 16 ตุลาคม** [PDF](https://www.dropbox.com/s/gkpnt9kb4n0ek2t/SA_64_523331_3.pdf?dl=0)
   * ตารางส่งงาน: **Update 25 กันยายน** [PDF](https://www.dropbox.com/s/wlw59yqqlc5iv9m/SA64_work_submission_2.pdf?dl=0)
+  * Report Checklist: **Update 18 ตุลาคม** [PDF](https://www.dropbox.com/s/mdgw6fxiev53lbw/report_checklist_64.pdf?dl=0)
+  * Program Checklist: **Update 18 ตุลาคม** [PDF](https://www.dropbox.com/s/4rnjzvoeit36fba/program_checklist_64.pdf?dl=0)
 
 ### Lectures
   * ตัวอย่าง Requirements และ User Story: [PDF](https://www.dropbox.com/s/2s9ek849wd7jh9j/%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%20Requirements%20%E0%B9%81%E0%B8%A5%E0%B8%B0%20User%20Story.pdf?dl=0)
