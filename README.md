@@ -5,7 +5,7 @@
 
   * Course Outline: **Update 16 ตุลาคม** [PDF](https://www.dropbox.com/s/gkpnt9kb4n0ek2t/SA_64_523331_3.pdf?dl=0)
   * ตารางส่งงาน: **Update 25 กันยายน** [PDF](https://www.dropbox.com/s/wlw59yqqlc5iv9m/SA64_work_submission_2.pdf?dl=0)
-  * Report Checklist: **Update 18 ตุลาคม** [PDF](https://www.dropbox.com/s/mdgw6fxiev53lbw/report_checklist_64.pdf?dl=0)
+  * Report Checklist: **Update 4 พฤศจิกายน** [PDF](https://www.dropbox.com/s/mdgw6fxiev53lbw/report_checklist_64.pdf?dl=0)
   * Program Checklist: **Update 18 ตุลาคม** [PDF](https://www.dropbox.com/s/4rnjzvoeit36fba/program_checklist_64.pdf?dl=0)
 
 ### Lectures
