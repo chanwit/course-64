@@ -5,6 +5,9 @@
 ## Lab
   * Lab 1 - ทดลอง setup [GitHub และ Codespace](https://www.dropbox.com/s/xvyah4c9s2ryct0/SA%2064%20Lab1.pdf?dl=0)
 
+
+## Metaverse
+  * [Link](https://app.spatial.io/rooms/61a4603a1c80690001dad421?share=2134782815789014643)
 ---
 
 
