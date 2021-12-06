@@ -7,7 +7,7 @@
 
 
 ## Metaverse
-  * [Link](https://app.spatial.io/rooms/61a4603a1c80690001dad421?share=2134782815789014643)
+  * Spatial Metaverse สำหรับ SE contents [Link](https://app.spatial.io/rooms/61a4603a1c80690001dad421?share=2134782815789014643)
 ---
 
 
