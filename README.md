@@ -5,6 +5,8 @@
 ## Lab
   * Lab 1 - ทดลอง setup [GitHub และ Codespace](https://www.dropbox.com/s/xvyah4c9s2ryct0/SA%2064%20Lab1.pdf?dl=0)
 
+---
+
 
 ## System Analysis and Design 1/64
 
