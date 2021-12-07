@@ -3,7 +3,7 @@
 ## Software Engineering 2/64
 
 ## Lab
-
+  * Lab 1 - ทดลอง [setup Git และสมัคร GitHub](https://www.dropbox.com/s/o1bnhi8pa3jvy45/SE_64_lab1.pdf?dl=0)
 
 ---
 
