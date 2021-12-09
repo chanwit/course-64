@@ -5,6 +5,16 @@
 ## Lab
   * Lab 1 - ทดลอง [setup Git และสมัคร GitHub](https://www.dropbox.com/s/o1bnhi8pa3jvy45/SE_64_lab1.pdf?dl=0)
 
+## Lecture Notes
+เราจะเรียนเนื้อหา Lecture ก่อน-หลัง ตามความเหมาะสมของเวลา โดยเอกสาร Lecture Notes ทั้งหมดสามารถ Download ได้จาก link ด้านล่างนี้
+  * [บทที่ 1](https://www.dropbox.com/s/hqa7jo11y3dowke/07_ch_01.pdf?dl=0)
+  * [บทที่ 2](https://www.dropbox.com/s/lp52sxatq5qku4b/08_ch_02.pdf?dl=0)
+  * [บทที่ 3](https://www.dropbox.com/s/vtes9ch8w1epzqp/09_ch_03.pdf?dl=0)
+  * [บทที่ 4](https://www.dropbox.com/s/xoaacfns5vw9gy2/10_ch_04.pdf?dl=0)
+  * [บทที่ 5](https://www.dropbox.com/s/zhzyrevk0z1osvs/11_ch_05.pdf?dl=0)
+  * [บทที่ 6](https://www.dropbox.com/s/hb9aemkhvtn6n89/12_ch_06.pdf?dl=0)
+  * [บทที่ 7](https://www.dropbox.com/s/j2vfbvwt785ja5n/13_ch_07.pdf?dl=0)
+  * [บทที่ 8](https://www.dropbox.com/s/y0tbq118loj814u/14_ch_08.pdf?dl=0)
 ---
 
 
