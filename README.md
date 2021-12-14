@@ -6,6 +6,17 @@
   * [Course Outline](https://www.dropbox.com/s/wn3t6bhmz09gboh/SE_64_523332.pdf?dl=0)
   * [แผนการส่งงาน](https://www.dropbox.com/s/iu7w7o2h2sjl65k/work_plan64.pdf?dl=0)
 
+## เงื่อนไขการเตรียมระบบย่อย
+  - ระบบต้องไม่ซ้ำและต้องไม่คล้ายกับของสมาชิกอื่นในกลุ่ม
+  - ระบบห้ามเป็นระบบสมาชิก / User / ผู้ใช้ / Admin (ระบบสมาชิกให้ร่วมกันทำทั้งกลุ่ม)
+  - UI เหมาะสมกับ Business ของโจทย์ (มี input ฟิลด์ที่ไปในทิศทางเดียวกับระบบย่อย)
+  - มี Entity อย่างน้อย 4 entity (1 Entity หลัก + 3 Entity สนับสนุน)
+  - มีการประกาศ field เพื่อโยงความสัมพันธ์ระหว่าง class ไม่ต่ำกว่า 3 เส้น(หรือเทียบเท่าในกรณีที่ระบบมี many-to-many โยงจาก Entityหลัก)
+  - ใน Entity หลัก มีการประกาศ data type ของ field ข้อมูล ที่แตกต่างกันอย่างน้อย 3 แบบ (เช่น string, int, date)
+  - ใน Entity หลัก มีการ validate ความถูกต้องของ field ข้อมูล อย่างน้อย 3 field ที่แบบของการ validation ไม่ซ้ำกัน
+  - ในหน้า UI หลัก มีการ validate ความถูกต้องของ field ข้อมูล อย่างน้อย 3 field ที่แบบของการ validation ไม่ซ้ำกัน
+  - ความสัมพันธ์แบบ 1 – Many ตอบโจทย์ของ Requirement หรือ ความสัมพันธ์แบบ 1 – 1 ตอบโจทย์ของ Requirement
+
 ## Week 1
   * Lab 1 - ทดลอง [setup Git และสมัคร GitHub](https://www.dropbox.com/s/o1bnhi8pa3jvy45/SE_64_lab1.pdf?dl=0)
 ## Week 2
