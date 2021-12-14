@@ -2,8 +2,16 @@
 
 ## Software Engineering 2/64
 
-## Lab
+## Course Outline และแผนการส่งงาน
+  * [Course Outline](https://www.dropbox.com/s/wn3t6bhmz09gboh/SE_64_523332.pdf?dl=0)
+  * [แผนการส่งงาน](https://www.dropbox.com/s/iu7w7o2h2sjl65k/work_plan64.pdf?dl=0)
+
+## Week 1
   * Lab 1 - ทดลอง [setup Git และสมัคร GitHub](https://www.dropbox.com/s/o1bnhi8pa3jvy45/SE_64_lab1.pdf?dl=0)
+## Week 2
+  * Lecture
+  * ส่ง Product Backlog เป็น PDF (ทำแบบเดียวกับการส่ง requirements วิชา SA, มี requirements 1/2 A4 และเขียน User Story)
+  * ตัวอย่างการส่งงาน [การเตรียม Facebook Page](https://www.dropbox.com/s/dknuy9t8r482j05/%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%20page.jpg?dl=0), [การอัด Scrum Meeting](https://www.dropbox.com/s/lj5n24qhf88efch/video-1606806992.mp4?dl=0), [การ post meeting ลง page](https://www.dropbox.com/s/26p39ptg1ixritq/%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%20post%20%E0%B9%83%E0%B8%99%20Facebook%20page.jpg?dl=0)
 
 ## Lecture Notes
 เราจะเรียนเนื้อหา Lecture ก่อน-หลัง ตามความเหมาะสมของเวลา โดยเอกสาร Lecture Notes ทั้งหมดสามารถ Download ได้จาก link ด้านล่างนี้
