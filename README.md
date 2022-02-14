@@ -2,6 +2,9 @@
 
 ## Software Engineering 2/64
 
+## โปรแกรม Check List
+  * เอกสารโปรแกรม Check List ([PDF](https://www.dropbox.com/s/wbrvg8byc0fm4a9/SE_program_checklist_64.pdf?dl=0))
+
 ## Course Outline และแผนการส่งงาน
   * [Course Outline](https://www.dropbox.com/s/wn3t6bhmz09gboh/SE_64_523332.pdf?dl=0)
   * [แผนการส่งงาน](https://www.dropbox.com/s/iu7w7o2h2sjl65k/work_plan64.pdf?dl=0)
